@@ -39,9 +39,9 @@ class CartViewController: UIViewController {
         case 0:
             selectedCurrency = .uah
         case 1:
-            selectedCurrency = .uah
+            selectedCurrency = .usd
         case 2:
-            selectedCurrency = .uah
+            selectedCurrency = .eur
         default:
             break
         }
